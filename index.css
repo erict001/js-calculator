@@ -1,0 +1,36 @@
+#answers {
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+    width: 100%;
+}
+
+#operators {
+    display: flex;
+    flex-direction: row;   
+    margin-bottom: 1rem;
+}
+
+.ops {
+    width: 25%;
+    height: 25vh;
+    margin-right: 1rem;
+}
+
+#numbers {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+
+#final {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+
+
+#equal {
+    display: flex;
+    flex-direction: row;
+}
